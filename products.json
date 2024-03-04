@@ -15,7 +15,7 @@
         "promoDiscount": "15%"
       },
       "image": {
-        "src": "T-shrtW.jpg",
+        "src": "/images/T-shrtW.jpg",
         "alt": "T-shrtWhite"
       }
     },
@@ -34,7 +34,7 @@
         "promoDiscount": "0%"
       },
       "image": {
-        "src": "T-shrtB.jpg",
+        "src": "/images/T-shrtB.jpg",
         "alt": "T-shrtBlack"
       }
     },
@@ -49,7 +49,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "CapW.jpg",
+        "src": "/images/CapW.jpg",
         "alt": "CapWhite"
       }
     },
@@ -64,7 +64,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "CapB.jpg",
+        "src": "/images/CapB.jpg",
         "alt": "CapBlack"
       }
     },
@@ -79,7 +79,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "CupW.jpg",
+        "src": "/images/CupW.jpg",
         "alt": "CupWhite"
       }
     },
@@ -94,7 +94,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "CupB.jpg",
+        "src": "/images/CupB.jpg",
         "alt": "CupBlack"
       }
     }
