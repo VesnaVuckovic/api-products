@@ -15,7 +15,7 @@
         "promoDiscount": "15%"
       },
       "image": {
-        "src": "/src/comonents/shop/public/images/T-shrt-W-1.jpg",
+        "src": "/src/components/shop/public/images/T-shrt-W-1.jpg",
         "alt": "T-shrtWhite"
       }
     },
@@ -34,7 +34,7 @@
         "promoDiscount": "0%"
       },
       "image": {
-        "src": "/src/comonents/shop/public/images/T-shrt-B-2.jpg",
+        "src": "/src/components/shop/public/images/T-shrt-B-2.jpg",
         "alt": "T-shrtBlack"
       }
     },
@@ -49,7 +49,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "/src/comonents/shop/public/images/Cap-W-3.jpg",
+        "src": "/src/components/shop/public/images/Cap-W-3.jpg",
         "alt": "CapWhite"
       }
     },
@@ -64,7 +64,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "/src/comonents/shop/public/images/Cap-B-4.jpg",
+        "src": "/src/components/shop/public/images/Cap-B-4.jpg",
         "alt": "CapBlack"
       }
     },
@@ -79,7 +79,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "/src/comonents/shop/public/images/Cup-W-5.jpg",
+        "src": "/src/components/shop/public/images/Cup-W-5.jpg",
         "alt": "CupWhite"
       }
     },
@@ -94,7 +94,7 @@
       },
       "inStock": true,
       "image": {
-        "src": "/src/comonents/shop/public/images/Cup-B-6.jpg",
+        "src": "/src/components/shop/public/images/Cup-B-6.jpg",
         "alt": "CupBlack"
       }
     }
