@@ -12,7 +12,7 @@
       },
       "price": {
         "regularPrice": "30",
-        "promoDiscount": "15%"
+        "promoDiscount": "15"
       },
       "image": {
         "src": "/src/components/shop/public/images/T-shrt-W-1.jpg",
@@ -31,7 +31,7 @@
       },
       "price": {
         "regularPrice": "30",
-        "promoDiscount": "0%"
+        "promoDiscount": "0"
       },
       "image": {
         "src": "/src/components/shop/public/images/T-shrt-B-2.jpg",
@@ -45,7 +45,7 @@
       "size": [5],
       "price": {
         "regularPrice": "25",
-        "promoDiscount": "0%"
+        "promoDiscount": "0"
       },
       "inStock": true,
       "image": {
@@ -60,7 +60,7 @@
       "size": [5],
       "price": {
         "regularPrice": "25",
-        "promoDiscount": "0%"
+        "promoDiscount": "0"
       },
       "inStock": true,
       "image": {
@@ -75,7 +75,7 @@
       "size": [5],
       "price": {
         "regularPrice": "15",
-        "promoDiscount": "10%"
+        "promoDiscount": "10"
       },
       "inStock": true,
       "image": {
@@ -90,7 +90,7 @@
       "size": [5],
       "price": {
         "regularPrice": "15",
-        "promoDiscount": "0%"
+        "promoDiscount": "0"
       },
       "inStock": true,
       "image": {
